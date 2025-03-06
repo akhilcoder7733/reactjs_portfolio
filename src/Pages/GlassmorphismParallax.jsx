@@ -5,7 +5,7 @@ import { styled } from "@mui/system";
 // Styled Components
 const Background = styled(Box)({
     height: "100vh",
-    backgroundImage: `url("/assets/style (1).jpg")`, // Direct path
+    backgroundImage: `url("./assets/style (1).jpg")`, // Direct path
     backgroundSize: "cover",
     backgroundPosition: "center",
     backgroundAttachment: "fixed",
